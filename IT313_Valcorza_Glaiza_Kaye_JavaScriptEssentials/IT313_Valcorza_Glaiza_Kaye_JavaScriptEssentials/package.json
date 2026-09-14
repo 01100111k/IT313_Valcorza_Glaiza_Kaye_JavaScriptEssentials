@@ -1,0 +1,13 @@
+{
+  "name": "it313_valcorza_glaiza_kaye_javascriptessentials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
